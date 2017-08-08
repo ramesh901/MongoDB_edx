@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "4.15.2",
+    "mocha": "3.5.0",
+    "superagent": "3.5.2"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  }
+}
